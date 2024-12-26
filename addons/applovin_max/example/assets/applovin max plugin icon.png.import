@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://161bwhobddpn"
-path="res://.godot/imported/logo.png-55c3043325689bcd474b182334e938a2.ctex"
+uid="uid://bsyot84xu0cn4"
+path="res://.godot/imported/applovin max plugin icon.png-97fd293a9c460e47739ac27b769d2969.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/example/assets/logo.png"
-dest_files=["res://.godot/imported/logo.png-55c3043325689bcd474b182334e938a2.ctex"]
+source_file="res://addons/applovin_max/example/assets/applovin max plugin icon.png"
+dest_files=["res://.godot/imported/applovin max plugin icon.png-97fd293a9c460e47739ac27b769d2969.ctex"]
 
 [params]
 

@@ -1,7 +1,7 @@
 [gd_scene load_steps=16 format=3 uid="uid://db1a0rrul6x05"]
 
-[ext_resource type="Script" path="res://addons/example/scenes/example.gd" id="1_aa657"]
-[ext_resource type="Texture2D" uid="uid://161bwhobddpn" path="res://addons/example/assets/logo.png" id="1_gyiio"]
+[ext_resource type="Script" path="res://addons/applovin_max/example/scenes/example.gd" id="1_aa657"]
+[ext_resource type="Texture2D" uid="uid://161bwhobddpn" path="res://addons/applovin_max/example/assets/logo.png" id="1_gyiio"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_eq04a"]
 content_margin_left = 100.0

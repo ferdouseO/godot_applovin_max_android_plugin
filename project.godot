@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Applovin-MAX-Godot-Plugin"
-run/main_scene="res://addons/example/scenes/example.tscn"
+config/name="Applovin-MAX-Godot"
+run/main_scene="res://addons/applovin_max/example/scenes/example.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
 

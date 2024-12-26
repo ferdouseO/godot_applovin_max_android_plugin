@@ -16,11 +16,10 @@ extends Control
 @onready var banner_auto_refresh_btn := $CenterContainer/VBoxContainer/HBoxContainer5/BannerAutoRefreshBtn
 
 
-const APPLOVIN_SDK_KEY : String = "Cokh3wiBMu2dLmxnGv0vodITbR3C2khacxBGreSMVnOIQIVlxL2y57qS4DH7s7Xxtt8uqJOG9RwNo_W6CM8Brt"
-const REWARDED_AD_ID : String = "cf66544175f8f323"
-const INTERSTITIAL_AD_ID : String = "3112e69448512538"
-const BANNER_AD_ID : String = "d3419829bbd49fcf"
-const APP_OPEN_AD_ID : String = "7d48d0cf62725ca2"
+const APPLOVIN_SDK_KEY : String = ""
+const REWARDED_AD_ID : String = ""
+const INTERSTITIAL_AD_ID : String = ""
+const BANNER_AD_ID : String = ""
 
 
 var interstitial_loaded : bool = false
