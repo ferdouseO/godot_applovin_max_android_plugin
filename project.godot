@@ -13,7 +13,7 @@ config_version=5
 config/name="Applovin-MAX-Godot"
 run/main_scene="res://addons/applovin_max/example/scenes/example.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="res://addons/applovin_max/assets/icon.svg"
 
 [display]
 
